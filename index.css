@@ -1,0 +1,24 @@
+table {
+    margin: auto;
+    width: 80%;
+}
+
+table,
+tr,
+th,
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 2px;
+    background-color: blanchedalmond;
+
+}
+
+.caption {
+    font-weight: 800;
+    font-size: x-large;
+    margin: 6px;
+
+
+}
